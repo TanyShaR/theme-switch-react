@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dark",
+    "value": "dark",
+    "title": "🌚Dark"
+  },
+  {
+    "id": "light",
+    "value": "light",
+    "title": "🌞Light"
+  }
+]
